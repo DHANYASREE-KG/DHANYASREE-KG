@@ -5,12 +5,12 @@
 ### Python Developer | Django Web Developer | Data Visualization Enthusiast
 
 📍 Erode, Tamil Nadu, India  
-🎓 Velalar College of Engineering & Technology
+🎓 Velalar College of Engineering & Technology  
 
 <br>
 
 <a href="https://linkedin.com/in/dhanya-sree-k-g">
-<img src="https://img.shields.io/badge/LinkedIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/DHANYASREE-KG">
@@ -31,21 +31,17 @@
 
 </div>
 
-<br>
-
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 I am a **Computer Science student** passionate about **software development and building practical web applications**.
 
-I have experience developing backend applications using **Python and Django**, and I enjoy creating efficient solutions for real-world problems.
+I have experience developing backend applications using **Python and Django**, and I enjoy building efficient solutions for real-world problems.
 
 I also have a strong interest in **data visualization**, using tools such as **Pandas, NumPy, Matplotlib, and Power BI** to analyze and present data effectively.
 
 Currently, I am strengthening my knowledge in **Data Structures and core Computer Science concepts** while continuously building projects and improving my development skills.
-
-<br>
 
 ---
 
@@ -56,7 +52,7 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<br>
+---
 
 ### 🌐 Frontend
 
@@ -65,19 +61,19 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br>
+---
 
 ### ⚙️ Backend
 
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<br>
+---
 
 ### 🗄️ Database
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
+---
 
 ### 📊 Data Analysis & Visualization
 
@@ -86,14 +82,14 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<br>
+---
 
 ### 🚀 Deployment & Hosting
 
 ![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br>
+---
 
 ### 🛠 Tools
 
@@ -102,9 +98,8 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<br>
-
 ---
+
 
 # 📊 GitHub Statistics
 
@@ -122,15 +117,14 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 </div>
 
-<br>
-
 ---
 
 # 📈 GitHub Activity Graph
 
 [![Dhanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DHANYASREE-KG&theme=github-dark)](https://github.com/DHANYASREE-KG)
 
-<br>
+---
+
 
 <div align="center">
 
