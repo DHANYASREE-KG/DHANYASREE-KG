@@ -29,11 +29,15 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=DHANYASREE-KG&color=blue&style=flat)
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 I am a **Computer Science student** passionate about **software development and building practical web applications**.
 
@@ -42,6 +46,15 @@ I have experience developing backend applications using **Python and Django**, a
 I also have a strong interest in **data visualization**, using tools such as **Pandas, NumPy, Matplotlib, and Power BI** to analyze and present data effectively.
 
 Currently, I am strengthening my knowledge in **Data Structures and core Computer Science concepts** while continuously building projects and improving my development skills.
+
+---
+
+# 🚀 Current Focus
+
+✔ Building **Django Web Applications**  
+✔ Improving **Problem Solving & Data Structures**  
+✔ Working on **Real World Projects**  
+✔ Learning **Backend Development Best Practices**
 
 ---
 
@@ -79,7 +92,7 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
@@ -104,11 +117,11 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DHANYASREE-KG&show_icons=true&theme=dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DHANYASREE-KG&show_icons=true&theme=dark&hide_border=true"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=DHANYASREE-KG&theme=dark&hide_border=true)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DHANYASREE-KG&theme=dark&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANYASREE-KG&layout=compact&theme=dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANYASREE-KG&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -116,11 +129,27 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 # 📈 GitHub Activity Graph
 
-[![Dhanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DHANYASREE-KG&theme=github-dark)](https://github.com/DHANYASREE-KG)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DHANYASREE-KG&theme=github-dark"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn → https://linkedin.com/in/dhanya-sree-k-g  
+💻 GitHub → https://github.com/DHANYASREE-KG  
+🧠 LeetCode → https://leetcode.com/u/dhanya2005/  
+🏆 HackerRank → https://www.hackerrank.com/profile/dhanyakathir2005  
+📧 Email → dhanyakathir2005@gmail.com
 
 ---
 
 <div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
 
 ![](https://visitcount.itsvg.in/api?id=DHANYASREE-KG&icon=0&color=0)
 
