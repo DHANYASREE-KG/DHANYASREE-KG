@@ -105,15 +105,9 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DHANYASREE-KG&show_icons=true&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DHANYASREE-KG&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=DHANYASREE-KG&theme=dark&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANYASREE-KG&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHANYASREE-KG&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 
 </div>
 
