@@ -1,13 +1,11 @@
 <div align="center">
 
-# Hey there, I'm Dhanya Sree 👋
+# Hi, I'm Dhanya Sree 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Web+Developer;Data+Visualization+Enthusiast;Computer+Science+Student" />
+### Python Developer | Django Web Developer | Data Visualization Enthusiast
 
-### Python & Django Developer • Data Visualization Enthusiast • Computer Science Student
-
-📍 **Erode, Tamil Nadu, India**  
-🎓 **Velalar College of Engineering & Technology**
+📍 Erode, Tamil Nadu, India  
+🎓 Velalar College of Engineering & Technology  
 
 <br>
 
@@ -35,7 +33,7 @@
 
 I am a **Computer Science student** passionate about **software development and building practical web applications**.
 
-I have experience developing backend applications using **Python and Django**, and I enjoy building efficient solutions for real-world problems.
+I have experience developing backend applications using **Python and Django**, and I enjoy creating efficient solutions for real-world problems.
 
 I also have a strong interest in **data visualization**, using tools such as **Pandas, NumPy, Matplotlib, and Power BI** to analyze and present data effectively.
 
@@ -52,7 +50,7 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 ---
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,7 +59,7 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
@@ -102,11 +100,11 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DHANYASREE-KG&theme=dark&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=DHANYASREE-KG&show_icons=true&theme=dark&hide_border=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=DHANYASREE-KG&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANYASREE-KG&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANYASREE-KG&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
