@@ -117,17 +117,3 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 </p>
 
----
-
-# 📈 GitHub Activity Graph
-
-[![Dhanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DHANYASREE-KG&theme=github-dark)](https://github.com/DHANYASREE-KG)
-
----
-
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=DHANYASREE-KG&icon=0&color=0)
-
-</div>
