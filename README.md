@@ -71,7 +71,7 @@ Currently, I am strengthening my knowledge in **Data Structures and core Compute
 
 ### 🗄️ Database
 
-![SQL](https://img.shields.io/badge/Database-SQL-blue?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logoColor=white)
 ---
 
 ### 📊 Data Analysis & Visualization
