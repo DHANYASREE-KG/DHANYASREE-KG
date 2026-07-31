@@ -87,11 +87,7 @@
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DHANYASREE-KG&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DHANYASREE-KG&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
